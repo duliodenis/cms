@@ -7,6 +7,8 @@ Steps Taken:
 3. cd cms 
 4. ng serve
 5. In browser: localhost:4200
+6. Created Firebase Project at the Firebase Console
+7. npm install firebase angularfire2 --save
 
 ### Contributing
 See [CONTRIBUTING](CONTRIBUTING.md).
