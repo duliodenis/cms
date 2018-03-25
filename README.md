@@ -11,6 +11,8 @@ Steps Taken:
 7. npm install firebase [angularfire2](https://github.com/angular/angularfire2) --save
 8. Create new component with: ng g component pages-list
 9. Edit component to display pages from Firebase
+10. Generate login-page component: ng g component login-page
+11. Created app-routing.module.ts file
 
 ### Contributing
 See [CONTRIBUTING](CONTRIBUTING.md).
